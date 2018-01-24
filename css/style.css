@@ -227,7 +227,7 @@ footer {
 #portfolio {
     overflow: hidden;
     width: 100%;
-    padding-bottom: 10%;
+    padding-bottom: 100px;
 }
 
 #portfolio .portfolio-item {
