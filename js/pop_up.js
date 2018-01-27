@@ -1,7 +1,7 @@
 $('.skills-item')
     .hover(function () {
-        $(this).find('span').addClass('showInfo')
+        $(this).find('.popuptext').addClass('showInfo')
     })
     .mouseleave(function () {
-        $(this).find('span').removeClass('showInfo')
+        $(this).find('.popuptext').removeClass('showInfo')
     });
